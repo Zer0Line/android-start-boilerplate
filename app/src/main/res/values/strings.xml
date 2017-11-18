@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Boilerplate</string>
+    <string name="user_name">sergey</string>
+    <string name="nav_root">root</string>
+    <string name="nav_second">second</string>
+    <string name="nav_support">support</string>
+    <string name="nav_feedback">feedback</string>
+    <string name="nav_open_drawer">open</string>
+    <string name="nav_close_drawer">close</string>
+
+    <string name="root_title">Root</string>
+    <string name="root_text">Root layout</string>
+
+    <string name="second_text">Second</string>
+    <string name="second_title">Second layout</string>
+    <string name="none"/>
+</resources>

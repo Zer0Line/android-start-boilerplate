@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_root"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_root"
+            android:title="@string/nav_root"/>
+        <item
+            android:id="@+id/nav_second"
+            android:icon="@drawable/ic_menu_second"
+            android:title="@string/nav_second"/>
+    </group>
+
+    <item
+        android:title="@string/nav_support">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_menu_feedback"
+                android:title="@string/nav_feedback"/>
+        </menu>
+    </item>
+
+</menu>
